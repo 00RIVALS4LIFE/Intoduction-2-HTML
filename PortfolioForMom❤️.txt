@@ -2,9 +2,13 @@
 <html>
     <head>
         <title>My Portfolio</title>
+        </head>
+        <body>
         <p>Hi there!I'm Rituu Amin and I stay in Mumbai.I work as an interior designer and architect & graduated from
 the University of Nagpur.</p>
 <mark>Hope you have a good day!</mark>
-    </head>
+    
     <mark>By Srestha Amin,5A</mark>
+        </body>
+</html>
         
